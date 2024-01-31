@@ -14,3 +14,7 @@
 6. Understand RNN and LSTM
 7. Build and Train the Model
 8. Assess Model Performance
+
+#### HTML Preview
+
+https://htmlpreview.github.io/?https://github.com/mz-ml/Python_News/blob/main/News.html
